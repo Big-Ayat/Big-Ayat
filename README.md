@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 - 🎨 I specialize in **UI/UX Design**, **Interaction Design**, and **Prototyping**.
-- 🌱 Currently developing my experience in **Frontend Development** with a focus on **JavaScript** and **React**.
+- 🌱 Currently developing my experience in **Frontend Development** with a focus on **TypeScript** and **React**.
 - 💼 Experienced in creating products that are both beautiful and functional, with a deep understanding of design principles and user-centered design.
 - 💬 Ask me about Product Design, Design Systems, Frontend Development, and Emerging Technologies.
 - 📫 Let's connect! You can reach me via [LinkedIn](https://www.linkedin.com/in/olowu-ayatullah/) or email at [bigayatdesign@gmail.com](mailto:bigayatdesign@gmail.com).
