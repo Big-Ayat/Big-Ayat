@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayatullah Olowu</h1>
-<h3 align="center">A versatile Product Designer and aspiring QA & Frontend Engineer</h3>
+<h3 align="center">Versatile Product Designer, aspiring QA Specialist, and Frontend Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olowu-ayatullah&label=Profile%20views&color=0e75b6&style=flat" alt="olowu-ayatullah" /> </p>
 
